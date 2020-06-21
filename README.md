@@ -11,3 +11,5 @@ Things I've learnt/things that would be useful to remember in future:
 
 * logical operators return booleans!
 * read documentation fully - make sure you grasp what methods are actually returning.
+* https://regex101.com/ is useful!
+* There seems to be methods for everything you ever need to do on arrays - see if these help before looping... https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
