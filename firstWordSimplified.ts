@@ -27,4 +27,4 @@ function firstWord(text: string): string {
  
 }
 
-console.log(firstWord('Hello world everyone how are you'));
+console.log(firstWord('Hello world'));
