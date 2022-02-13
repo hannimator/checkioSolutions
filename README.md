@@ -14,5 +14,5 @@ Things I've learnt/things that would be useful to remember in future:
 * https://regex101.com/ is useful!
 * There seems to be methods for everything you ever need to do on arrays - see if these help before looping... https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 * array.sort is complicated. -1 means moving a forward, and 1 means moving b forward. 0 means no change. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-* * you can manipulate a and b, you only need to return -1, 0 and 1 
+* * you can manipulate a and b, you only need to return -1, 0 and 1 within the function, the sort does all the magic on the array itself. Actual magic!
 * useful string method https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
